@@ -21,4 +21,6 @@ The documentation will be written by many individuals within and outside the Ens
 Full-time
 
 ## Mentors
-Emily Perry, Andy Yates and Andrea Winterbottom
+* **Emily Perry** is in charge of the Ensembl Outreach team. Her team deal with things like help emails, training, online help and documentation etc -- anything that involves interacting with people who use Ensembl and helping them along. Her role in this project will be to help define the user's needs for documentation and also to explain the content where necessary.
+* **Andrea Winterbottom** is the Ensembl web designer, in charge of designing the new website. Her role in this project will be in discussing the structure of the new website and its documentation needs, as well as thinking about templates and styles for documentation.
+* **Andy Yates** is the Genomics Technology Infrastructure Group Leader, who oversees work involved in the Ensembl website and its presentation to the public. He will ensure any documentation meets our needs and expectations.
