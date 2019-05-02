@@ -43,12 +43,13 @@ Ensembl produces releases every 2-3 months, so it would be necessary for the doc
 
 The documentation will be written and maintained by a number of different people, so it will be necessary to define the style. Examples of things that might be included in a style guide are:
 * Spelling of ambiguous words, such as orthologue/ortholog, RNA-seq/RNA seq/RNAseq.
+* Usage of synonymous or nearly synonymous words, such as variant, SNP, mutation, polymorphism, SNV.
 * Formatting of particular kinds of features in the text, such as italics on species and gene names, capitalisation of headers, use of format or quote marks to indicate words to click on or type in.
 * Paper references.
 * For images, how do we label them?
 It will be necessary to identify all the aspects of this, including commonly used words, and consult with the team on what the preferred style is.
 
-[Here is the Guardian and Observer style guide for reference](https://www.theguardian.com/guardian-observer-style-guide-a).
+[Here is the Guardian and Observer style guide for reference](https://www.theguardian.com/guardian-observer-style-guide-a). They have a lot of words to define because they cover a lot more topics: we can use much fewer.
 
 ## Sample task
 
