@@ -47,6 +47,7 @@ The documentation will be written and maintained by a number of different people
 * Formatting of particular kinds of features in the text, such as italics on species and gene names, capitalisation of headers, use of format or quote marks to indicate words to click on or type in.
 * Paper references.
 * For images, how do we label them?
+
 It will be necessary to identify all the aspects of this, including commonly used words, and consult with the team on what the preferred style is.
 
 [Here is the Guardian and Observer style guide for reference](https://www.theguardian.com/guardian-observer-style-guide-a). They have a lot of words to define because they cover a lot more topics: we can use much fewer.
