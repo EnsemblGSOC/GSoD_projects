@@ -42,7 +42,7 @@ Ensembl produces releases every 2-3 months, so it would be necessary for the doc
 ### Style guide
 
 The documentation will be written and maintained by a number of different people, so it will be necessary to define the style. Examples of things that might be included in a style guide are:
-* Spelling of ambiguous words, such as orthologue/ortholg, RNA-seq/RNA seq/RNAseq.
+* Spelling of ambiguous words, such as orthologue/ortholog, RNA-seq/RNA seq/RNAseq.
 * Formatting of particular kinds of features in the text, such as italics on species and gene names, capitalisation of headers, use of format or quote marks to indicate words to click on or type in.
 * Paper references.
 * For images, how do we label them?
