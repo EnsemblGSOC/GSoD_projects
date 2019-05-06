@@ -22,7 +22,7 @@ Matthieu Muffato and Brandon Walts
 
 # What do you need to do ?
 
-You will find in this section information about what we see as the best candidate and proposal
+You will find in this section information about what we see as the best candidate and proposal.
 
 ## Selection process
 
@@ -30,21 +30,22 @@ You will find in this section information about what we see as the best candidat
 * helpdesk@ensembl.org is using Request Tracker (RT) to manage the emails. After sending us an email, you will get a confirmation that that it has been received and you will be assigned a ticket number, e.g. `Ensembl #340668`. Keep that string (the one you got, not the one I gave here as an example) in the subject of all the further emails. Please always send your email to helpdesk@ensembl.org only. Internally, RT will route your email to the relevant people. You do not need to cc anyone else.
 * The email discussion will by default be private between you, the Outreach team (who manages helpdesk@ensembl.org) and the mentors, unlike other organizations where all communications go through a public mailing-list. If you have a killer idea, it will remain yours. We will *not* share it with other candidates.
 * Share your proposal early over email and ask for a review. It would be a shame to misunderstand important parts of the project.
+* You will be asked to demonstrate excellent communication skills, through our discussion and examples of documentation you (will) have written.
 
 ## Cheat-sheet
 
-This is a major goal of this project. The cheat-sheet should be a one- or two-sided documents with the most important commands of eHive.
-We expect you to propose a technical solution to build the cheat-sheet. Here are our requirements:
+This is a major goal of this project. The cheat-sheet should be a one- or two-sided document with the most important commands of eHive.
+Importantly, we expect you to propose a technical solution to host and build the cheat-sheet. Here are our requirements:
 * We want to be able to update the content easily and quickly.
-* We would like the source document to be text only
+* We would like the source document to be text only.
 * The cheat-sheet will have to be built automatically with the rest of the documentation on ReadTheDocs. It doesn't have to be built with Sphynx itself, e.g. we run Doxygen and other things on ReadTheDocs. We already have [a few modules that add functionality to ReadTheDocs' build system](https://github.com/Ensembl/ensembl-hive/tree/version/2.5/docs/xhive).
+* It needs to be accessible through the existing manual, if not embedded in it.
 
-Please, come and discuss your idea, even if it doesn't address all those points. We can work together on improving those, and we may also be able to relax some of the constraints if the proposed solution has other benefits
+Please, come and discuss your idea, even if it doesn't address all those points. We can work together on improving those, and we may also be able to relax some of the constraints if the proposed solution has other benefits.
 
 ## A better user manual
 
-Our manual needs to cater for users with vastly different levels of experience with eHive: new-starter who will discover worklows and databases, advanced users and seasoned programmers who want to go beyond the normal use-cases, optimize and tweak things.
-We know there are a number of additional, advanced, topics that need better explaining.
+The manual needs to cater for users with vastly different levels of experience with eHive: from new starters who will discover the concepts of workflow to seasoned programmers who want to go beyond the traditional use-cases.
 
 First of all, it would be great if you are able to install eHive and run some of the example workflows, e.g. the [Long-Multiplication pipeline](https://ensembl-hive.readthedocs.io/en/master/walkthrough/long_mult_walkthrough.html), to get the concepts of eHive.
 Then, have a look at the manual in general, and critique:
