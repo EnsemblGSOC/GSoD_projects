@@ -18,3 +18,19 @@ Full-time
 ## Mentors
 
 Helen Schuilenburg and Nishadi De Silva
+
+
+## Sample task
+
+Anyone interested in the project should complete this short task and send a report on it.
+
+[This page of documentation](https://www.ensembl.org/info/docs/api/api_git.html) describes the installation of the Ensembl Perl API that is the first step in setting up a working environment before running any of our pipelines.
+
+1. Do you see any weaknesses or strengths in this document in its current form?
+
+2. How would you re-structure or re-write this set of instructions so that someone unfamiliar with this task could successfully run these steps?
+
+3. This step is the first in running many of the subsequent pipelines needed to produce  Ensembl (each one with its own set of instructions). In some cases, all the pipelines need to be run and in others only a handful are relevant.
+   1. What would your suggestions be on how to lay out all these different manuals into a whole so that users could either follow the entire process step-by-step or pick and choose different steps and paths to go through depending on their requirements?
+
+   1. What tools and platform would you choose to place the pipeline documentation in?
