@@ -20,8 +20,7 @@ Part-time
 
 * **Astrid Gall** is an Ensembl Outreach Officer. She creates online help and documentation pages as well as training materials, delivers training workshops, answers help emails and manages social media -- anything that involves interacting with people who use Ensembl and helping them along. Her role in this project will be to help define the user's needs for documentation and also to explain the content where necessary.
 
-* **Beth Flint** is the Ensembl Applications Project Leader.
-
+* **Beth Flint** is the Ensembl Applications Project Leader.  The Applications team develop a variety of systems which are either partially or wholly RESTful APIs.  Her role in this project will be to provide technical information and define the needs of the developers in finding a solution that is maintainable and sustainable. 
 ## Sample task
 
 Anyone interested in the project should complete this short task and send a report on it.
