@@ -24,9 +24,8 @@ Astrid Gall and Beth Flint
 
 Anyone interested in the project should complete this short task and send a report on it.
 
-The current documentation for the Ensembl REST API is available [here](http://rest.ensembl.org/)   
+The current documentation for the Ensembl REST API is available [here](http://rest.ensembl.org/).   
 
 1. Do you see any weaknesses or strengths in this document in its current form?
-2. If you have identified any weaknesses, which would be the most important to address and why?  
- i) Provide a brief plan (bullet points are fine) of how you would go about addressing it. 
-3) Many websites and organisations provide RESTful APIs to allow developers to interact with their services.  Identify and provide links to 3 APIs that you believe are well documented and briefly describe why you think each is successful.
+2. If you have identified any weaknesses, which would be the most important to address and why? Provide a brief plan (bullet points are fine) of how you would go about addressing them. 
+3) Many websites and organisations provide RESTful APIs to allow developers to interact with their services.  Identify and provide links to three APIs that you believe are well documented and briefly describe why you think each is successful.
