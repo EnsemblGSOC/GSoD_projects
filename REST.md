@@ -18,7 +18,9 @@ Part-time
 
 ## Mentors
 
-Astrid Gall and Beth Flint
+* **Astrid Gall** is an Ensembl Outreach Officer. She creates online help and documentation pages as well as training materials, delivers training workshops, answers help emails and manages social media -- anything that involves interacting with people who use Ensembl and helping them along. Her role in this project will be to help define the user's needs for documentation and also to explain the content where necessary.
+
+* **Beth Flint** is the Ensembl Applications Project Leader.
 
 ## Sample task
 
