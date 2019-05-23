@@ -1,7 +1,7 @@
 # Manual gene annotation documentation
 ## Brief explanation
 
-Ensembl genes are annotated onto the genome by a combination of automatic annotation using a pipeline and manual annotation by skilled annotators. Current documentation describing the process of manual gene annotation is very limited and needs significant expansion.
+Ensembl genes are annotated onto the genome by a combination of automatic annotation using a pipeline and manual annotation by skilled annotators. [Current documentation](http://www.ensembl.org/info/genome/genebuild/manual_havana.html) describing the process of manual gene annotation is very limited and needs significant expansion.
 
 Manual gene annotation is a very involved process, which uses data from a variety of sources, along with the annotators’ expert knowledge of gene structures, to determine the position of genes. Annotators make use of their own annotators’ guidelines, which may form the basis of any documentation. They have specialised software to carry out the task, which is not available to the public.
 
