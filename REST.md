@@ -39,4 +39,4 @@ The current documentation for the Ensembl REST API is available [here](http://re
 3) Many websites and organisations provide RESTful APIs to allow developers to interact with their services.  Identify and provide links to three APIs that you believe are well documented and briefly describe why you think each is successful.
 
 ## More info
-If you want to learn more about the Ensembl REST API, have a look at our up-to-date online course (https://www.ebi.ac.uk/training/online/course/ensembl-rest-api). It includes interactive Jupyter notebooks in Python, Perl and R (https://notebooks.azure.com/ensembl-training).
+If you want to learn more about the Ensembl REST API, have a look at our up-to-date [online course] (https://www.ebi.ac.uk/training/online/course/ensembl-rest-api). It includes interactive Jupyter notebooks in Python, Perl and R (https://notebooks.azure.com/ensembl-training).
