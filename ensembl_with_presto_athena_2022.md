@@ -64,6 +64,16 @@ A number of ideas involved in this project share ideas with the way NCBI dataset
 
 A third party collection of files which were developed due to the sometimes hard to parse/collate nature of the denormalised Ensembl storage layer. These are available in a variety of formats and gives a good idea about how another group went about generating tabular representations of Ensembl data by directly querying our databases.
 
+## The developer role
+
+As the developer on this project you will be responsible for
+
+- Designing the plan for developing the prototype service
+- Creating code for generating flat file representations of Ensembl data
+- Building a service to talk to either Presto or Athena
+
+There will be no other developer working on this project with you. However developers from Ensembl can be made available to help discuss ideas through with yourself including providing information on how these various technologies work.
+
 ## Next steps
 
 - Read the materials above to prepare for the project
