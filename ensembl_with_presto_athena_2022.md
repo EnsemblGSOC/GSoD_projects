@@ -58,6 +58,11 @@ A tabular search engine developed by NCBI to search through their gene records. 
 
 A number of ideas involved in this project share ideas with the way NCBI dataset behaves.
 
+You can see some examples of how this works from the following links
+
+- [Genes searching for BRCA1, TP53 and HBB](https://www.ncbi.nlm.nih.gov/datasets/tables/genes/?table_type=genes&key=88e5d2229833222c49acb46f3282ccc4)
+- [Transcripts for TP53](https://www.ncbi.nlm.nih.gov/datasets/tables/genes/?table_type=transcripts&key=949e268b4389446ce1981a5f42fb3cbe)
+
 ### Ensembl Genes
 
 **https://github.com/related-sciences/ensembl-genes/tree/output/homo_sapiens_core_104_38**
