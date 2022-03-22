@@ -44,6 +44,28 @@ The original Ensembl “data miner” tool to convert data models into a [revers
 
 This [article gives an idea about BioMart](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-10-22) from the original authors of the tool.
 
+#### Challenges we face with BioMart
+
+##### How biomarts are built
+
+BioMarts are primarily built by using "CREATE TABLE AS" SQL statements. This means create a table which is based on the results of the following query. BioMart does this lots and lots of times to create the final product. This is a time consuming activity and limits biomarts to be made only from a database and our data can reside in places other than a database e.g. another flat file format
+
+##### MySQL
+
+MySQL is a row based database and suited to linked data and built for normalised querying i.e. things split amongst a modest number of tables. We are handling denormalised data where space savings can be had by moving to a column based format (since many columns have repetitive data which is normally handled using dictionary/controlled vocab table patterns).
+
+##### BioMart configuration
+
+BioMart needs to be told about every filter/attribute it needs to handle as does any system. This is held in memory. Some attributes are a product of a close to `N vs. N` analysis (e.g. our orthology calls) of genomes meaning every time we add a new genome, we increase the attributes by the total number of genomes. Because of this we have introduced a hard limit of 200 genomes in each biomart we build. 
+
+##### BioMart querying
+
+BioMart is built in Perl. It also implements query pagination using the LIMIT BY clause. This in effect runs the query again each time and asks MySQL to skip the first N rows until it gets to the next query. This is inefficient. Users can choose to write to a system file and then recieve an email for their results at a later date. For some queries this is the only way to sensibly "do it".
+
+##### Complexity
+
+BioMart has had everything injected into it that we have. A successful project should seek to reduce the number of elements held and reducing the number of elements someone can filter by. The hope is this makes it a more tractable problem else any new solution could fall foul of the same problems.
+
 ### Intermine
 
 **[http://intermine.org/](http://intermine.org/)**
