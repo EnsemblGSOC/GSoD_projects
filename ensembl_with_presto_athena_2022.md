@@ -91,6 +91,8 @@ You can see some examples of how this works from the following links
 
 A third party collection of files which were developed due to the sometimes hard to parse/collate nature of the denormalised Ensembl storage layer. These are available in a variety of formats and gives a good idea about how another group went about generating tabular representations of Ensembl data by directly querying our databases.
 
+This representation of data is quite close to a possible schema. Part of your project proposal should allot time to discuss with key stakeholders if there is anything missing.
+
 ## The developer role
 
 As the developer on this project you will be responsible for
@@ -100,6 +102,16 @@ As the developer on this project you will be responsible for
 - Building a service to talk to either Presto or Athena
 
 There will be no other developer working on this project with you. However developers from Ensembl can be made available to help discuss ideas through with yourself including providing information on how these various technologies work.
+
+## Database layers/how to work with Parquet and AWS Athena/Presto
+
+Here are a number of links to guides about how to work with AWS Athena and Parquet. You may find this useful to review as part of designing your proposal.
+
+- https://docs.aws.amazon.com/athena/latest/ug/getting-started.html
+- https://stackoverflow.com/questions/42786398/how-to-query-parquet-data-from-amazon-athena
+- https://support.datavirtuality.com/hc/en-us/articles/360025526471-Query-Parquet-Files-in-Data-Virtuality-Using-Amazon-Athena
+
+We have not included any links to Presto documentation because the two products are the same and AWS has simplified a number of steps such as setting up and running a Presto server.
 
 ## Next steps
 
